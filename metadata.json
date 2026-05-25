@@ -1,0 +1,6 @@
+{
+  "name": "AI Flashcard & Quiz Generator",
+  "description": "Create interactive flashcards and multiple-choice quizzes from CSV files or custom topics using Gemini AI. Export to a single HTML file for instant offline or GitHub Pages hosting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
